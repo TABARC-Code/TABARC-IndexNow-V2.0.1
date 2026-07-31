@@ -4,8 +4,6 @@
 
 TABARC IndexNow tells participating search engines when public content on your WordPress site has been added, changed or removed. It does not promise instant rankings, divine favour or a queue of search-engine engineers outside your house. It simply sends the right notification, records what happened and gets out of the way.
 
-This is a clean-room rebuild of two older packages which had drifted into an awkward split between editable source and compiled release files. Version **2.0.1** brings the code, documentation and installable package back together in one maintainable project.
-
 **Author:** TABARC-Code, Inc.  
 **Licence:** GPL-2.0-or-later  
 **Requires:** WordPress 6.4 or later, PHP 7.4 or later
@@ -26,7 +24,7 @@ A ready-to-upload release is included in the repository under `release/`.
 
 - Queues public URLs when selected content is published, updated, moved or deleted.
 - Sends URL batches to the fixed global IndexNow endpoint.
-- Allows one-off manual submission of a URL from the current site.
+- Allows one-off manual submission of a URL
 - Serves the public `{key}.txt` verification file required by IndexNow.
 - Supports public post-type selection and wildcard path exclusions.
 - Can inspect common SEO metadata and rendered pages for `noindex` directives.
@@ -149,7 +147,7 @@ Enable this option only when you want uninstalling the plugin to remove its data
 - Response bodies are not retained; only short sanitised result notes are logged.
 - Deactivation preserves data. Destructive uninstall behaviour is explicit and opt-in.
 
-See [`SECURITY.md`](SECURITY.md) for reporting and design details.
+See [`SECURITY.md`](SECURITY.md) for reporting and design details. or just DM me.
 
 ## Repository map
 
