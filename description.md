@@ -18,25 +18,6 @@ Administrators can select a genuine PNG from the WordPress Media Library for the
 
 The live plugin has no Node, React, Composer or third-party PHP dependency. Security-sensitive operations use WordPress capabilities, nonces, validation, escaping and the safe HTTP API. The IndexNow endpoint is fixed in code, and submitted URLs must belong to the current site.
 
-## Suggested GitHub topics
+# rebuild of a previous project.
 
-```text
-wordpress
-wordpress-plugin
-indexnow
-seo
-search-engine-indexing
-php
-uk-english
-tabarc-code
-```
-
-## Suggested release title
-
-```text
-TABARC IndexNow 2.0.1
-```
-
-## Suggested release summary
-
-Version 2.0.1 packages the clean-room rebuild as a beginner-ready release. It adds expanded repository documentation, a no-assumptions installation guide, clearer migration and troubleshooting instructions, repository housekeeping files and a prepared installable WordPress ZIP with checksum.
+#TABARC-Code
