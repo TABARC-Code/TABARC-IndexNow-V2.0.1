@@ -1,6 +1,6 @@
 # Start here
 
-This page is for the person who has a WordPress site, a ZIP file and no interest in pretending that plugin installation should be a personality test.
+This page is for the person who has a WordPress site, a ZIP file and no interest in pretending that plugin installation should become conveluted personality test.
 
 ## The file you need
 
